@@ -37,7 +37,7 @@
 
 <p align="center">
 
-<img width="500" src="https://metrics.lecoq.io/blueedgetechno" alt="Github Metrics">
+<img width="500" src="https://metrics.lecoq.io/Eptiiix" alt="Github Metrics">
   
 <br>
 
